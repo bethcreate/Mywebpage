@@ -1,0 +1,46 @@
+body{
+    background-color: teal; 
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    
+
+}
+h1{
+    color: white;
+    padding-top: 80px;
+}
+p{
+    color: black;
+}
+
+.content{
+    float: left; 
+    padding-left: 200px;
+    font-size: 15px;
+
+}
+.image{
+    font-size: 15px;
+}
+
+  ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+  }
+  
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    padding: 8px;
+    color: white;
+    float: left;
+  }
+nav{
+    margin-left: 900px;
+}
